@@ -27,7 +27,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://# Aircraft Risk Management Analysis
+   git clone [https://# Aircraft Risk Management Analysis](https://github.com/LarryNgetich/ds-ft10-phase-1-project-larry-ngetich.git)
 
 ## Overview
 
