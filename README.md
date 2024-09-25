@@ -32,14 +32,13 @@ To run this project, follow these steps:
 ## Project Structure
 
 aircraft-risk-management/
-data/
-- accidents.csv         # Dataset containing aviation accident records
+- data/
+      - accidents.csv         # Dataset containing aviation accident records
    src/
-      - main.py               # Main script for data analysis
-      - data_processing.py     # Data processing functions
-      - analysis.py            # Functions for analysis and visualizations
-   requirements.txt           # List of required packages
-   README.md                  # Project documentation
+- main.py               # Main script for data analysis
+- data_processing.py     # Data processing functions
+- analysis.py            # Functions for analysis and visualizations
+- README.md                  # Project documentation
 
 ## Key Findings
 
